@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Sample Form</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    </head>
+    <body>
+        <h1 style="text-align: center;">Face recognition system</h1>
+        <br>
+        <form action="/recog_faces/" enctype="multipart/form-data" method="post">
+            <div class="form-group row">
+                <div class="col-sm-4"></div>
+                <div class="col-sm-4">
+                    <label for="form_file" class="form-label">Load image to check</label>
+                    <input class="form-control" type="file" id="form_file" name="image">
+                    <button type="submit" class="btn btn-primary btn-lg btn-block">Submit</button>
+                </div>
+                <div class="col-sm-4"></div>
+            </div>
+        </form>
+    </body>
+</html>
