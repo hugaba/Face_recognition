@@ -3,10 +3,15 @@
 # Content
 
 data folder: contain database.db with database informations
+
 dataset: contain pictures to test the program (some faces registered in database)
+
 templates: contain html templates
+
 functions.py: python functions used to analyse images or write into database
+
 main.py: python file with paths
+
 requirements.txt: requirements to make the virtual environment
 
 # Getting started
