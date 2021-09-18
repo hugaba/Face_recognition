@@ -1,5 +1,7 @@
 # Face_recognition
 
+lien vers le rapport écrit : [rapport](https://docs.google.com/document/d/1jC87cg68rni0Pxgu-vXMxU5FHK6CnuA5/edit?usp=sharing&ouid=115739380341365217109&rtpof=true&sd=true)
+
 # Content
 
 data folder: contain database.db with database informations
