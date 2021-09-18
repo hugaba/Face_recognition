@@ -6,6 +6,8 @@ data folder: contain database.db with database informations
 
 dataset: contain pictures to test the program (some faces registered in database)
 
+static/saved_pics: temporary file where the analaysed pics are stored  for the analysis
+
 templates: contain html templates
 
 functions.py: python functions used to analyse images or write into database
