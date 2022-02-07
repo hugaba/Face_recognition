@@ -1,6 +1,6 @@
 # Face_recognition
 
-lien vers le rapport écrit : [rapport](https://docs.google.com/document/d/1JXK7gcHeudWCTUhu3JktWiY6DvMNOPj4/edit?usp=sharing&ouid=115739380341365217109&rtpof=true&sd=true)
+lien vers le rapport écrit : [rapport](https://drive.google.com/file/d/1_us-jO_P4nyjrJ_h1iZIYJccXfdSeKVC/view?usp=sharing)
 
 # Content
 
